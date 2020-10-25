@@ -34,7 +34,7 @@ def to_blanks(word):
     output = ""
     for letter in word:
         output += "-"
-    return output # replace pass with the appropriate instructions
+    return output
 
 def combine(letter_list):
     output = ""
